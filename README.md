@@ -1,3 +1,9 @@
+### Component is in https://github.com/viktoria2506/devextreme-app/tree/master/src/components/grid.
+
+#### It is displayed in the application on page 'Interview devtest'
+
+----------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
