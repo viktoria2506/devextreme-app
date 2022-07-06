@@ -1,0 +1,33 @@
+[
+    {
+      "dataField": "CompanyName",
+      "caption": "Company Name",
+      "dataType": "string",
+      "alignment": "left"
+    },
+    {
+      "dataField": "State",
+      "caption": "State",
+      "dataType": "string",
+      "alignment": "left"
+    },
+    {
+      "dataField": "City",
+      "caption": "City",
+      "dataType": "string",
+      "alignment": "left"
+    },
+    {
+      "dataField": "Phone",
+      "caption": "Phone",
+      "dataType": "string",
+      "alignment": "left"
+    },
+    {
+      "dataField": "Fax",
+      "caption": "Fax",
+      "dataType": "string",
+      "alignment": "left"
+    }
+  ]
+  

@@ -1,0 +1,52 @@
+
+.config-editor {
+    padding: 8px 24px;
+    background: #C4C4C4;
+  }
+  
+  .config-editor-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+  }
+  
+  .columns-list {
+    margin-top: 17px;
+    margin-bottom: 25px;
+    padding-left: 14px;
+  }
+
+  .add-column-button {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .columns-list-item {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    gap: 10px;
+  
+    > input {
+      outline: none;
+    }
+  
+    .dx-icon-trash, .dx-icon-edit {
+      cursor: pointer;
+      font-size: 22px; 
+      height: 22px;
+      width: 25px;
+    }
+  
+  }
