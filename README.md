@@ -1,3 +1,4 @@
+## Interview task
 ### Component is in https://github.com/viktoria2506/devextreme-app/tree/master/src/components/grid.
 
 #### It is displayed in the application on page 'Interview devtest'
